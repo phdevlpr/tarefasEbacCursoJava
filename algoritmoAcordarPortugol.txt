@@ -1,0 +1,10 @@
+Algoritmo Rotina_Acordar
+    Escreva("1. Desligue o alarme.")
+    Escreva("2. Levante-se da cama.")
+    Escreva("3. Vá ao banheiro e lave o rosto.")
+    Escreva("4. Passar um café")
+    Escreva("5. Tomar café")
+    Escreva("6. Escovar os dentes")
+    Escreva("7. Inicie suas atividades do dia.")
+    
+FimAlgoritmo
