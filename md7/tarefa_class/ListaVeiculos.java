@@ -23,7 +23,7 @@ public class ListaVeiculos {
         lista.saudacao();
 
         String modeloVeiculo = lista.modeloVeiculo("Ford Ranger");
-        System.out.println("O modelo do veículo é:" + modeloVeiculo);
+        System.out.println("O modelo do veículo é: " + modeloVeiculo);
 
         int anoVeiculo = lista.anoVeiculo (2023);
         System.out.println("O ano é: " + anoVeiculo);
