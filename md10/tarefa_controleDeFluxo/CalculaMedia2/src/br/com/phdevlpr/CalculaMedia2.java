@@ -11,6 +11,12 @@ public class CalculaMedia2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        System.out.println("_______________________________________________________________");
+
+        System.out.println("Para calcular sua nota, digite um valor entre 0(zero) e 10(dez).");
+
+        System.out.println("_______________________________________________________________");
+
         System.out.println("Digite a primeira nota: ");
         Double nota1 = scanner.nextDouble();
 
