@@ -25,8 +25,10 @@ public class CalculaMedia2 {
 
         scanner.close();
 
-        double soma = nota1 + nota2 + nota3 + nota4;
-        double resultado = soma / 4;
+        Double soma = nota1 + nota2 + nota3 + nota4;
+        Double resultado = soma / 4;
+
+        System.out.println("Sua média é: " + resultado);
 
         if (resultado >= 7) {
             System.out.println("Parabéns, você está aprovado!");
